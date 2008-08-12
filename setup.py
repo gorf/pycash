@@ -8,8 +8,8 @@ __author__ =  '刘清'
 __version__=  '1.0'
 __nonsense__ = ''
 from distutils.core import setup
-setup(name='foo',
-      version='1.0',
-      py_modules=['foo'],
+setup(name='pycash',
+      version='0.1',
+      py_modules=[''],
       )
 
