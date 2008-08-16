@@ -14,7 +14,7 @@ setup(name='pycash',
       author='刘清',
       author_email='liuqing.com@gmail.com',
       url='http://code.google.com/p/pycash/',
-      packages=[],
-      py_modules=[],
+      packages=['',],
+      py_modules=['pycash'],
       )
 
